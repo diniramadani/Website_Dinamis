@@ -34,4 +34,11 @@
   ?>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
+  <footer id="footer" class="footer" style="column; height: 10vh;align-items: center; justify-content: center; background-color: #D3CEDF; padding-top: 35px;">
+  <div class="container">
+    <div class="copyright text-center">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">Dini Ramadani</strong> <span>All Rights Reserved<br></span></p>
+    </div>
+  </div>
+</footer>
 </html>
